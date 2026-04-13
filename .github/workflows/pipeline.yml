@@ -91,4 +91,4 @@ jobs:
           echo "Deploying image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest"
           echo "Target: staging cluster"
           echo "Deployment complete!"
-EOF
+
